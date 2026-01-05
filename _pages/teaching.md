@@ -2,11 +2,80 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Assistant experience and course materials.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## 2024
 
-Organize your courses by years, topics, or universities, however you like!
+<div class="card mt-3 p-3">
+  <div class="row">
+    <div class="col-md-10">
+      <h5 class="card-title font-weight-medium">Regression Analysis</h5>
+      <h6 class="card-subtitle mb-2 text-muted">University of Science and Technology of China</h6>
+      <p class="card-text">
+        <strong>Role:</strong> Teaching Assistant<br>
+        <strong>Instructor:</strong> Dr. Xiaohong Lan<br>
+        <!-- Add any additional details about your responsibilities here -->
+      </p>
+    </div>
+    <div class="col-md-2 text-right">
+      <a href="https://github.com/Bianbian2002/24-Spring-Regression-Analysis" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary mt-2">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </div>
+  </div>
+</div>
+
+---
+
+## 2026
+
+<div class="card mt-3 p-3">
+  <div class="row">
+    <div class="col-md-10">
+      <h5 class="card-title font-weight-medium">DSC 140B</h5>
+      <h6 class="card-subtitle mb-2 text-muted">University of California, San Diego</h6>
+      <p class="card-text">
+        <strong>Role:</strong> Teaching Assistant<br>
+        <strong>Semester:</strong> Winter 2026<br>
+        <strong>Instructor:</strong> Dr. Eldridge, Justin Matthew<br>
+        <!-- Add any additional details about your responsibilities here -->
+      </p>
+    </div>
+    <div class="col-md-2 text-right">
+      <a href="https://github.com/your-username/dsc140b-winter2026" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary mt-2">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </div>
+  </div>
+</div>
+
+---
+
+<!-- ## Future Courses -->
+
+<!-- Add your future TA courses here following the same format -->
+
+<!-- Template for adding more courses:
+<div class="card mt-3 p-3">
+  <div class="row">
+    <div class="col-md-10">
+      <h5 class="card-title font-weight-medium">Course Name</h5>
+      <h6 class="card-subtitle mb-2 text-muted">Institution Name</h6>
+      <p class="card-text">
+        <strong>Role:</strong> Teaching Assistant<br>
+        <strong>Semester:</strong> Fall 2025 (or Spring 2025, etc.)<br>
+        <strong>Instructor:</strong> Instructor Name<br>
+        Description of your responsibilities and course content.
+      </p>
+    </div>
+    <div class="col-md-2 text-right">
+      <a href="https://github.com/your-username/course-repo" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary mt-2">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </div>
+  </div>
+</div>
+-->
