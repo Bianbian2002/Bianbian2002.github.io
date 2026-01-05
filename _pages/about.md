@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! My name is Zeyu Bian, and I’m a first-year PhD student at the Halıcıoğlu Data Science Institute at the University of California, San Diego.
+Hi there! My name is Zeyu Bian(卞泽宇), and I’m a first-year PhD student at the Halıcıoğlu Data Science Institute at the University of California, San Diego.
 
 My research interests lie broadly in modern AI, with a focus on optimization and learning theory. I’m fortunate to be supervised by Dr. Tianhao Wang, and I look forward to creating something new!
