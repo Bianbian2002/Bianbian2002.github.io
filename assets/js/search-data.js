@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Teaching Assistant experience and course materials.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -480,7 +487,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_Zeyu_Bian_V3.pdf", "_blank");
+          window.open("https://Bianbian2002.github.io/assets/pdf/CV_Zeyu_Bian_V3.pdf", "_blank");
         },
       },{
         id: 'social-email',
