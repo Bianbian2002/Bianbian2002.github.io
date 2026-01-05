@@ -15,11 +15,11 @@ I enjoy playing independent games on Steam, with favorites including:
 
 <div class="row mt-3">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/celeste.jpg" title="Celeste with Friend Mashiro" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/celeste.jpg" title="Celeste" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
-- **Hollow Knight** - A world of mystery
+- **Hollow Knight** - An atmospheric metroidvania adventure
 - **Slay the Spire** - A strategic deck-building roguelike
 - **Hearthstone** - A strategic round game (I especially like playing the aggressive Rogue class)
 
