@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[Halıcıoğlu Data Science Institute(UCSD)](https://datascience.ucsd.edu/)</a>. 
+subtitle: <a href='#'>Halıcıoğlu Data Science Institute(UCSD)</a>. 
 
 profile:
   align: right
