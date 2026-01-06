@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Halıcıoğlu Data Science Institute(UCSD)</a>. 
+subtitle: <a href='#'>[Halıcıoğlu Data Science Institute(UCSD)](https://datascience.ucsd.edu/)</a>. 
 
 profile:
   align: right
@@ -29,4 +29,4 @@ latest_posts:
 
 Hi there! My name is Zeyu Bian(卞泽宇), and I’m a first-year PhD student at the Halıcıoğlu Data Science Institute at the University of California, San Diego.
 
-My research interests lie broadly in **modern AI**, with a focus on **optimization** and **learning theory**. I’m fortunate to be supervised by **Dr. Tianhao Wang**, and I look forward to creating something new!
+My research interests lie broadly in **modern AI**, with a focus on **optimization** and **learning theory**. I’m fortunate to be supervised by [**Dr. Tianhao Wang**](https://tiiao.github.io/), and I look forward to creating something new!

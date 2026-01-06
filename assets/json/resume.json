@@ -39,7 +39,7 @@
       "url": "",
       "startDate": "2025-03-01",
       "endDate": "2025-06-01",
-      "summary": "PI: Prof. Tianhao Wang. Project: Towards Understanding Momentum Acceleration in River-Valley Loss Landscape. Analyzed gradient descent with heavy-ball momentum under recently proposed river-valley loss landscape. Theoretically showed that momentum can accelerate the progress along the river by enabling use of a substantially larger learning rate. Validated the insights with experiments on synthetic functions and language model training.",
+      "summary": "PI: Prof. Tianhao Wang. Project: Towards Understanding Momentum Acceleration in River-Valley Loss Landscape.",
       "highlights": [
         "Analyzed gradient descent with heavy-ball momentum under river-valley loss landscape",
         "Theoretically showed momentum acceleration with larger learning rates",
@@ -52,7 +52,7 @@
       "url": "",
       "startDate": "2024-03-01",
       "endDate": "2025-03-01",
-      "summary": "PI: Prof. Hongyu Zhao. Project: Larger SNP List and Functional Annotations Help to Boost Polygenic Risk Scores (PRS) Accuracy. Used PLINK to perform data cleaning and quality control for multi-population with raw 1000 Genomes Project (1KGP) genotype data. Developed revised hierarchical Bayesian model based on JointPRS to incorporate functional annotations and account for larger SNP list. Enhanced model performance across various traits by introducing self-adaptive hyperparameters.",
+      "summary": "PI: Prof. Hongyu Zhao. Project: Larger SNP List and Functional Annotations Help to Boost Polygenic Risk Scores (PRS) Accuracy.",
       "highlights": [
         "Performed data cleaning and quality control for multi-population genotype data",
         "Developed revised hierarchical Bayesian model based on JointPRS",
