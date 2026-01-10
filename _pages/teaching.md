@@ -39,8 +39,8 @@ nav_order: 6
       <h6 class="card-subtitle mb-2 text-muted">University of California, San Diego</h6>
       <p class="card-text">
         <strong>Role:</strong> Teaching Assistant<br>
-        <strong>Semester:</strong> Winter 2026<br>
-        <strong>Instructor:</strong> Dr. Eldridge, Justin Matthew<br>
+        <strong>Quarter:</strong> Winter 2026<br>
+        <strong>Instructor:</strong> Dr. Eldridge, Justin<br>
         <!-- Add any additional details about your responsibilities here -->
       </p>
     </div>
