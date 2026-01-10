@@ -45,8 +45,8 @@ nav_order: 6
       </p>
     </div>
     <div class="col-md-2 text-right">
-      <a href="https://github.com/your-username/dsc140b-winter2026" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary mt-2">
-        <i class="fab fa-github"></i> GitHub
+      <a href="https://dsc140b.com/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary mt-2">
+        <i class="fas fa-globe"></i> Course Webpage
       </a>
     </div>
   </div>
