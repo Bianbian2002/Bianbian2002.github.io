@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-zeyu-bian-phd-student-at-ucsd-ai-optimization-research",
+    title: "Zeyu Bian - PhD Student at UCSD | AI & Optimization Research",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
