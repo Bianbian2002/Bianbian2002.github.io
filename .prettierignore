@@ -16,5 +16,9 @@ _data/cv.yaml
 _layouts/about.liquid
 _pages/about.md
 _pages/miscellaneous.md
+_pages/reading.md
+_pages/reading-deep-learning-spring-2025.md
+_pages/reading-deep-learning-spring-2025-pencil.md
+_pages/reading-deep-learning-spring-2025-modular-duality.md
 assets/json/resume.json
 googlee62f5ca362386255.html
