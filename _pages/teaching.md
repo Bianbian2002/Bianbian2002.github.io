@@ -35,7 +35,7 @@ nav_order: 6
 <div class="card mt-3 p-3">
   <div class="row">
     <div class="col-md-10">
-      <h5 class="card-title font-weight-medium">DSC 140B</h5>
+      <h5 class="card-title font-weight-medium">DSC 140B: Representation Learning</h5>
       <h6 class="card-subtitle mb-2 text-muted">University of California, San Diego</h6>
       <p class="card-text">
         <strong>Role:</strong> Teaching Assistant<br>
