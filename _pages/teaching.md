@@ -16,7 +16,7 @@ nav_order: 6
       <h6 class="card-subtitle mb-2 text-muted">University of Science and Technology of China</h6>
       <p class="card-text">
         <strong>Role:</strong> Teaching Assistant<br>
-        <strong>Instructor:</strong> Dr. Xiaohong Lan<br>
+        <strong>Instructor:</strong> Xiaohong Lan<br>
         <!-- Add any additional details about your responsibilities here -->
       </p>
     </div>
@@ -31,7 +31,6 @@ nav_order: 6
 ---
 
 ## 2026
-
 <div class="card mt-3 p-3">
   <div class="row">
     <div class="col-md-10">
@@ -40,7 +39,7 @@ nav_order: 6
       <p class="card-text">
         <strong>Role:</strong> Teaching Assistant<br>
         <strong>Quarter:</strong> Winter 2026<br>
-        <strong>Instructor:</strong> Dr. Eldridge, Justin<br>
+        <strong>Instructor:</strong> Eldridge, Justin<br>
         <!-- Add any additional details about your responsibilities here -->
       </p>
     </div>
@@ -52,6 +51,43 @@ nav_order: 6
   </div>
 </div>
 
+<div class="card mt-3 p-3">
+  <div class="row">
+    <div class="col-md-10">
+      <h5 class="card-title font-weight-medium">DSC 10: Principles of Data Science</h5>
+      <h6 class="card-subtitle mb-2 text-muted">University of California, San Diego</h6>
+      <p class="card-text">
+        <strong>Role:</strong> Teaching Assistant<br>
+        <strong>Quarter:</strong> Spring 2026<br>
+        <strong>Instructor:</strong> Janine Tiefenbruck<br>
+      </p>
+    </div>
+    <div class="col-md-2 text-right">
+      <a href="https://dsc10.com/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary mt-2">
+        <i class="fas fa-globe"></i> Course Webpage
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="card mt-3 p-3">
+  <div class="row">
+    <div class="col-md-10">
+      <h5 class="card-title font-weight-medium">DSC 20: Programming and Data Structures for Data Science</h5>
+      <h6 class="card-subtitle mb-2 text-muted">University of California, San Diego</h6>
+      <p class="card-text">
+        <strong>Role:</strong> Teaching Assistant<br>
+        <strong>Quarter:</strong> Spring 2026<br>
+        <strong>Instructor:</strong> Marina Langlois<br>
+      </p>
+    </div>
+    <div class="col-md-2 text-right">
+      <a href="https://dsc20.org/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary mt-2">
+        <i class="fas fa-globe"></i> Course Webpage
+      </a>
+    </div>
+  </div>
+</div>
 ---
 
 <!-- ## Future Courses -->
