@@ -31,6 +31,7 @@ nav_order: 6
 ---
 
 ## 2026
+
 <div class="card mt-3 p-3">
   <div class="row">
     <div class="col-md-10">
@@ -88,6 +89,7 @@ nav_order: 6
     </div>
   </div>
 </div>
+
 ---
 
 <!-- ## Future Courses -->
