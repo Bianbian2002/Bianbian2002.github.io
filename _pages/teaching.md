@@ -90,6 +90,24 @@ nav_order: 6
   </div>
 </div>
 
+<div class="card mt-3 p-3">
+  <div class="row">
+    <div class="col-md-10">
+      <h5 class="card-title font-weight-medium">DSC 242: High dimensional probability and statistics</h5>
+      <h6 class="card-subtitle mb-2 text-muted">University of California, San Diego</h6>
+      <p class="card-text">
+        <strong>Role:</strong> Teaching Assistant<br>
+        <strong>Quarter:</strong> Fall 2026<br>
+        <strong>Instructor:</strong> Tianhao Wang<br>
+      </p>
+    </div>
+    <div class="col-md-2 text-right">
+      <a href="https://tianhaowang.notion.site/Fall-2026-DSC-242-High-dimensional-Probability-and-Statistics-3e5e8a8251a180c39c42fb6d51333288" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary mt-2">
+        <i class="fas fa-globe"></i> Course Webpage
+      </a>
+    </div>
+  </div>
+</div>
 ---
 
 <!-- ## Future Courses -->
