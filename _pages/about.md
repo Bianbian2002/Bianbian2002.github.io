@@ -2,7 +2,7 @@
 layout: about
 title: Zeyu Bian
 permalink: /
-description: Zeyu Bian (卞泽宇) - First-year PhD student at Halıcıoğlu Data Science Institute, UCSD. Research interests in modern AI, optimization, and learning theory.
+description: Zeyu Bian (卞泽宇) - Second-year PhD student at Halıcıoğlu Data Science Institute, UCSD. Research interests in modern AI, optimization, and learning theory.
 subtitle: <a href='#'>Halıcıoğlu Data Science Institute(UCSD)</a>. 
 
 profile:
